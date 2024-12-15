@@ -1,0 +1,6 @@
+@StrikerForge_HostAddress = http://localhost:5074
+
+GET {{StrikerForge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
